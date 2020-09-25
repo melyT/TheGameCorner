@@ -12,3 +12,5 @@ Nuevas lineas desde la Rama3
 3. buscar mejores practicas
 4. rehacer pruebas
 
+Nuevas lineas desde el editor gráfico, para mejor facilidad de escritura
+
